@@ -1,21 +1,6 @@
-html
-{
-	height: 100%;
-}
-
+@import 'bower_components/compass-twitter-bootstrap/stylesheets/compass_twitter_bootstrap';
 body
 {
-  position: relative;
-  height: 100%;
-}
-
-h1
-{
-  color: #4285F4;
   font-family: 'Open Sans';
-  font-weight: normal;
-  width: 100%;
-  position: absolute;
-  top: 50%;
-  text-align: center;
+  position: relative;
 }
