@@ -29,5 +29,6 @@ body {
   color: white;
   background-color: #4285F4; }
 
-.communities_container paper-button[raised].indigo_paper_button {
-  background-color: #3f51b5; }
+paper-button[raised].indigo_paper_button {
+  color: white;
+  background-color: #4285F4; }

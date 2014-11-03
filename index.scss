@@ -62,10 +62,8 @@ body
 	}
 }
 
-.communities_container
+paper-button[raised].indigo_paper_button
 {
-	paper-button[raised].indigo_paper_button
-	{
-		background-color: #3f51b5;
-	}
+	color: white;
+	background-color: #4285F4;
 }
